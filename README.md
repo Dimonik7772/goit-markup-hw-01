@@ -1,2 +1,2 @@
-# goit_markup_hw_01
+# goit-markup-hw-01
 my first project 
